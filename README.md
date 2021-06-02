@@ -1,9 +1,4 @@
 # CommunityConnect is a event posting app 
 
-<div id="code-element">
-    <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6580884228551122944" height="605" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe> 
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6580884254853607424/" rel="nofollow" target="_blank">Demo</a> 
 
-</div>
-<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-<script>
-</script>
